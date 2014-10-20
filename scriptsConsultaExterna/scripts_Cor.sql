@@ -1,0 +1,9 @@
+GRANT SELECT ON siga_correspondencia.fil_radicacion TO siga_parametros;
+GRANT SELECT ON siga_correspondencia.fil_dependencia TO siga_parametros;
+GRANT SELECT ON siga_correspondencia.fil_referenciados TO siga_parametros;
+GRANT SELECT ON siga_correspondencia.usuario_tabla TO siga_parametros;
+GRANT SELECT ON siga_correspondencia.fil_radicacionwebservice TO siga_parametros;
+GRANT SELECT ON siga_correspondencia.fil_images TO siga_parametros;
+GRANT SELECT ON siga_correspondencia.fil_radicaciondestinatario TO siga_parametros;
+GRANT SELECT ON siga_correspondencia.fil_dependencia TO siga_parametros;
+GRANT SELECT ON siga_correspondencia.FIL_RADICACIONDESTINOSALIDA TO siga_parametros;
